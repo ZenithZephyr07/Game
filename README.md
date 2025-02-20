@@ -40,6 +40,6 @@ python rps_game.py
 5. **Running the Application:**
    - The application is created and run using `app = RPSGameApp()` and `app.mainloop()`.
   
-##_Note:_
+**_Note:_**
 The images required for the framework of game are not included in the file.
 You can save any image of ur choice in the respective directory. Also note that the name of images mentioned in the code should also be changed accordingly.
